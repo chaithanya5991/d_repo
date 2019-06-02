@@ -1,0 +1,2 @@
+More information of a design changes from vertical view to horizontal view
+profile picture updation failed
